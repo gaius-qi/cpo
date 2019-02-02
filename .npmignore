@@ -1,0 +1,10 @@
+.travis.yml
+test/
+.eslintrc
+.eslintignore
+coverage/
+.nyc_output
+logs/
+docs/
+*.sw*
+*.un~
