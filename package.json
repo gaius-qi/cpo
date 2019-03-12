@@ -8,7 +8,7 @@
     "command",
     "cli",
     "cp",
-    "cpm"
+    "cpo"
   ],
   "bin": {
     "cpo": "./bin/copying-cli.js"
