@@ -38,6 +38,38 @@ $ npm i cpo -g
 $ cpo pwd
 ```
 
+## Command alias
+
+Use cpo to assist the pwd command.
+
+### bash
+
+Add alias in your `~/.bash_profile`
+
+```bash
+alias pwd="cpo pwd""
+```
+
+### zsh
+
+Add alias in your `~/.zshrc`
+
+```bash
+alias pwd="cpo pwd"
+```
+
+### fish
+
+Add alias in your `config.fish`
+
+```bash
+alias pwd "cpo pwd"
+```
+
+After adding alias, you can use the pwd command after cpo assist.
+
+
+
 ### Test project
 
 ```bash
