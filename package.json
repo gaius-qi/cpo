@@ -1,6 +1,6 @@
 {
   "name": "cpo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quick copy command output tool",
   "main": "index.js",
   "keywords": [
