@@ -60,7 +60,7 @@ alias pwd="cpo pwd"
 
 ### fish
 
-Add alias in your `config.fish`
+Add alias in your `~/.config/fish/config.fish`
 
 ```bash
 alias pwd "cpo pwd"
