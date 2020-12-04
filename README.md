@@ -78,10 +78,6 @@ $ npm run test
 
 - [Open an issue in GitHub](https://github.com/gaius-qi/cpo/issues)
 
-## Contributors
-
-[![](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/images/0)](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/links/0)[![](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/images/1)](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/links/1)[![](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/images/2)](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/links/2)[![](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/images/3)](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/links/3)[![](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/images/4)](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/links/4)[![](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/images/5)](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/links/5)[![](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/images/6)](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/links/6)[![](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/images/7)](https://sourcerer.io/fame/gaius-qi/gaius-qi/cpo/links/7)
-
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
